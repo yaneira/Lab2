@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 	<title>Wild Rescues: Template</title>
-	<meta chargeset="utf-8">
+	<meta charset="utf-8">
 </head>
 	<header>
 	<br>
@@ -31,6 +31,4 @@
 	<p>&copy; Copyrights 2021. All Rights Reserved.</p>
 	<p>contact@wildrescue.net</p>
 	</footer>
-<body>
-</body>
 </html>
